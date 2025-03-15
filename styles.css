@@ -41,8 +41,10 @@ html {
   font-size: 20px; 
   cursor: pointer;  
   transition: background 0.3s, color 0.3s; 
-
+  border: 2px solid #333;  /* Adds border */
+  outline: none;
+    color: white;
     position: absolute;
-     right: 70%;
-    top: 92%
+     left: 80%;
+    bottom: 94%
 }
