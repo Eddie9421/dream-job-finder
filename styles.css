@@ -41,3 +41,31 @@ html {
     padding: 0.25rem;
 }
 
+.info-button {
+  background: none; 
+  font-family: 'Roboto', sans-serif; 
+  font-size: 20px; 
+  cursor: pointer;  
+  transition: background 0.3s, color 0.3s; 
+  border: 2px solid #333;  /* Adds border */
+  outline: none;
+    color: white;
+    position: absolute;
+     left: 80%;
+    bottom: 94%
+}
+
+.go-back-button {
+    background: none; 
+  font-family: 'Roboto', sans-serif; 
+  font-size: 20px; 
+  cursor: pointer;  
+  transition: background 0.3s, color 0.3s; 
+  border: 2px solid #333;  /* Adds border */
+  outline: none;
+    color: white;
+    position: absolute;
+    left: 10%;
+    bottom: 85%
+}
+
